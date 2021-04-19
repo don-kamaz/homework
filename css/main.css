@@ -23,6 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header {
+  min-height: 100vh;
   background: #4EBEFE;
   background: -webkit-linear-gradient(to bottom right, #4EBEFE 0%, #378FD9 100%);
   background: -moz-linear-gradient(to bottom right, #4EBEFE 0%, #378FD9 100%);
