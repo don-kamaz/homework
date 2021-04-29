@@ -1,4 +1,4 @@
-var btn = document.querySelector('.btn');
+let btn = document.querySelector('.btn');
 
 btn.onclick = function(evt) {
   evt.preventDefault();
